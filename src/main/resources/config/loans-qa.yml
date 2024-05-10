@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "welcome to Eazy Bank loans related QA APIS"
+  contactDetails:
+    name: "Paul Duke - Application Support"
+    email: "paulduke@gmail.com"
+  onCallSupport:
+    - "(777) 555-1234"
+    - "(777) 523-1345"
